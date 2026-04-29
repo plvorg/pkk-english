@@ -1,0 +1,33 @@
+# 英语学习进度
+
+## 已学习单词
+
+- 颜色：red blue yellow green black white orange pink purple brown
+- 动物：cat dog bird fish duck pig cow sheep horse rabbit bear tiger lion monkey elephant mouse
+- 食物：apple banana orange pear milk water juice bread cake egg rice fish chicken cookie
+- 家庭与人物：mom dad mother father baby boy girl friend teacher student
+- 身体部位：head face eye ear nose mouth hand arm leg foot hair
+- 数字：one two three four five six seven eight nine ten
+- 日常物品：book bag pen pencil ruler chair table bed door window toy ball car
+- 动作：go come look see run jump walk eat drink play read sit stand sleep
+- 形容词：big small long short happy sad good bad hot cold nice funny
+- 常用功能词：I you he she it we this that my your a an the is are am like can have in on under
+
+## 已学习语法/句式
+
+- I am ...
+- You are ...
+- He/She is ...
+- It is ...
+- This is ...
+- That is ...
+- I like ...
+- I have ...
+- I can ...
+- Can you ...?
+- What is this?
+- What color is it?
+- Where is ...?
+- It is in/on/under ...
+- 名词单复数初步接触：cat/cats dog/dogs
+- 简单形容词描述：a big dog a red apple
