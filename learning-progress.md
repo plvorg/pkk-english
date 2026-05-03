@@ -1,5 +1,7 @@
 # 英语学习进度
 
+**本文件记录已学习的单词及语法/句式，当学习了新内容时会更新本文档。**
+
 ## 已学习单词
 
 - 颜色：red blue yellow green black white orange pink purple brown
