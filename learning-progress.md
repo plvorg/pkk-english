@@ -14,6 +14,7 @@
 - 动作：go come look see run jump walk eat drink play read sit stand sleep
 - 形容词：big small long short happy sad good bad hot cold nice funny
 - 常用功能词：I you he she it we this that my your a an the is are am like can have in on under
+- 介词：to into in on
 
 ## 已学习语法/句式
 
@@ -31,5 +32,9 @@
 - What color is it?
 - Where is ...?
 - It is in/on/under ...
+- ... is in/on ...
+- go to ...
+- go into ...
+- put ... into ...
 - 名词单复数初步接触：cat/cats dog/dogs
 - 简单形容词描述：a big dog a red apple
